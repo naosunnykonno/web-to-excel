@@ -1,3 +1,5 @@
+[![Run sample](https://github.com/naosunnykonno/web-to-excel/actions/workflows/run-sample.yml/badge.svg)](https://github.com/naosunnykonno/web-to-excel/actions/workflows/run-sample.yml)
+
 [日本語](README.md) | [English](README.en.md)
 
 # Web表データ → Excel 収集ツール
